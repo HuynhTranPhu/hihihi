@@ -8,9 +8,9 @@ export default {
             price: 60,
             brand: 'Adidas',
             description:'Nice T-shirt',
-            status:'In Stock',
             rating: 4.6,
-            numReviews: 10
+            numReviews: 10,
+            countInStock:0,
         },
         {
             _id:'2',
@@ -19,9 +19,9 @@ export default {
             price: 60,
             brand: 'Adidas',
             description:'Nice T-shirt',
-            status:'In Stock',
             rating: 4.6,
-            numReviews: 10
+            numReviews: 10,
+            countInStock:6,
         },
         {
             _id:'3',
@@ -30,9 +30,9 @@ export default {
             price: 60,
             brand: 'Adidas',
             description:'Nice T-shirt',
-            status:'In Stock',
             rating: 4.6,
-            numReviews: 10
+            numReviews: 10,
+            countInStock:4,
         },
         {
             _id:'4',
@@ -41,9 +41,9 @@ export default {
             price: 60,
             brand: 'Adidas',
             description:'Nice T-shirt',
-            status:'In Stock',
             rating: 4.6,
-            numReviews: 10
+            numReviews: 10,
+            countInStock:5,
         },
         {
             _id:'5',
@@ -52,9 +52,9 @@ export default {
             price: 60,
             brand: 'Adidas',
             description:'Nice T-shirt',
-            status:'In Stock',
             rating: 4.6,
-            numReviews: 10
+            numReviews: 10,
+            countInStock:8,
         },
         {
             _id:'6',
@@ -63,9 +63,9 @@ export default {
             price: 60,
             brand: 'Adidas',
             description:'Nice T-shirt',
-            status:'In Stock',
             rating: 4.6,
-            numReviews: 10
+            numReviews: 10,
+            countInStock:7,
         },
         {
             _id:'7',
@@ -74,9 +74,9 @@ export default {
             price: 60,
             brand: 'Adidas',
             description:'Nice T-shirt',
-            status:'In Stock',
             rating: 4.6,
-            numReviews: 10
+            numReviews: 10,
+            countInStock:3,
         },
         {
             _id:'8',
@@ -85,9 +85,9 @@ export default {
             price: 60,
             brand: 'Adidas',
             description:'Nice T-shirt',
-            status:'In Stock',
             rating: 4.6,
-            numReviews: 10
+            numReviews: 10,
+            countInStock:5,
         }
         
     ]
