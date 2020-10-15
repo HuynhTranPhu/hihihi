@@ -3,7 +3,7 @@ export default {
     [
         {
             _id:'1',
-            name : 'Women T-shirt',
+            name : 'Women T-shirt1',
             image: '/images/product1.jpg',
             price: 60,
             brand: 'Adidas',
@@ -14,7 +14,7 @@ export default {
         },
         {
             _id:'2',
-            name : 'Women T-shirt',
+            name : 'Women T-shirt2',
             image: '/images/product1.jpg',
             price: 60,
             brand: 'Adidas',
@@ -25,7 +25,7 @@ export default {
         },
         {
             _id:'3',
-            name : 'Women T-shirt',
+            name : 'Women T-shirt3',
             image: '/images/product1.jpg',
             price: 60,
             brand: 'Adidas',
@@ -36,7 +36,7 @@ export default {
         },
         {
             _id:'4',
-            name : 'Women T-shirt',
+            name : 'Women T-shirt4',
             image: '/images/product1.jpg',
             price: 60,
             brand: 'Adidas',
@@ -47,7 +47,7 @@ export default {
         },
         {
             _id:'5',
-            name : 'Women T-shirt',
+            name : 'Women T-shirt5',
             image: '/images/product1.jpg',
             price: 60,
             brand: 'Adidas',
@@ -58,7 +58,7 @@ export default {
         },
         {
             _id:'6',
-            name : 'Women T-shirt',
+            name : 'Women T-shirt6',
             image: '/images/product1.jpg',
             price: 60,
             brand: 'Adidas',
@@ -69,7 +69,7 @@ export default {
         },
         {
             _id:'7',
-            name : 'Women T-shirt',
+            name : 'Women T-shirt7',
             image: '/images/product1.jpg',
             price: 60,
             brand: 'Adidas',
@@ -80,7 +80,7 @@ export default {
         },
         {
             _id:'8',
-            name : 'Women T-shirt',
+            name : 'Women T-shirt8',
             image: '/images/product1.jpg',
             price: 60,
             brand: 'Adidas',
